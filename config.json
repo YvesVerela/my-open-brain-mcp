@@ -1,0 +1,15 @@
+{
+  "mcp_server_name": "KRON-Op-Brain-Secure",
+  "version": "1.0.0",
+  "security_gateways": {
+    "enforce_directory_lock": true,
+    "restricted_path": "/Volumes/ySol Mainet/KRON Op Brain Database",
+    "authorized_subfolders": [
+      "01_Core_Intelligence (brain context)",
+      "02_Knowledge_Base",
+      "03_Heavy_Assets (project back ups)"
+    ],
+    "allow_shell_access": false,
+    "human_approval_required": true
+  }
+}
